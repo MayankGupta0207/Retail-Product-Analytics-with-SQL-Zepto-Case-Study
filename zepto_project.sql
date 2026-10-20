@@ -158,3 +158,5 @@ SELECT category, COUNT(sku_id) AS num_skus
 FROM zepto
 GROUP BY category
 ORDER BY num_skus DESC;
+
+s 
